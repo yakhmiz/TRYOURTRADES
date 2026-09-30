@@ -1,0 +1,1 @@
+export default function P(){return <main><section><a href="/customer">← Trading World</a><h1>Fuel & Earnings</h1><div className="grid"><div className="card"><h3>Fuel Wallet</h3></div><div className="card"><h3>Commission Carry</h3></div><div className="card"><h3>Referral Wallet</h3></div></div></section></main>}
